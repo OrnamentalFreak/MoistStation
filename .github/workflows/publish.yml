@@ -54,10 +54,7 @@ jobs:
     - name: Publish version
       run: Tools/publish_github_artifact.py
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PUBLISH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
-        ARTIFACT_ID: ${{ steps.artifact-upload-step.outputs.artifact-id }}
-        GITHUB_REPOSITORY: ${{ vars.GITHUB_REPOSITORY }}
 
 #    - name: Publish changelog (Discord)
 #      run: Tools/actions_changelogs_since_last_run.py
