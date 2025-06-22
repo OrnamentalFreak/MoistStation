@@ -1979,3 +1979,79 @@ Entries:
     changes:
     - type: Tweak
       message: Made doors no longer connect to walls
+  - id: 757
+    author: AryaRaiin
+    time: '2025-06-14T23:51:25.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/757
+    changes:
+    - type: Add
+      message: The aromantic mantle is now available when using the chameleon pride mantle.
+  - id: 601
+    author: kleinerstation13
+    time: '2025-06-16T04:43:40.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/601
+    changes:
+    - type: Tweak
+      message: Tweaked wizard spell prices and effectiveness
+    - type: Tweak
+      message: Nerfed wizard hardsuit pierce protection
+  - id: 673
+    author: BoskiYourk
+    time: '2025-06-16T05:08:34.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/673
+    changes:
+    - type: Add
+      message: Added the Blood-Red Energy Carbine
+    - type: Add
+      message: Added the Jailbroken Energy Cartridge
+  - id: 528
+    author: BoskiYourk
+    time: '2025-06-16T07:05:21.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/528
+    changes:
+    - type: Tweak
+      message: Ports new box and box icon sprites from ADT
+  - id: 775
+    author: BoskiYourk
+    time: '2025-06-16T20:45:22.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/775
+    changes:
+    - type: Tweak
+      message: Updates iconsmoothing across the board
+  - id: 778
+    author: kleinerstation13
+    time: '2025-06-17T22:25:13.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/778
+    changes:
+    - type: Tweak
+      message: Resprited welding gas mask for lizards
+  - id: 737
+    author: CollectionOfBones128
+    time: '2025-06-17T22:26:17.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/737
+    changes:
+    - type: Add
+      message: Added a Senior Salvager Mantle and PDA
+  - id: 721
+    author: CollectionOfBones128
+    time: '2025-06-17T22:27:04.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/721
+    changes:
+    - type: Add
+      message: Adds a unique hardsuit for the Quartermaster.
+  - id: 698
+    author: CollectionOfBones128
+    time: '2025-06-17T22:27:56.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/698
+    changes:
+    - type: Add
+      message: Adds a unique PKA that can be bought for $15,000 spesos
+  - id: 593
+    author: MissKay1994
+    time: '2025-06-17T22:30:20.000000+00:00'
+    url: https://github.com/ss14-harmony/ss14-harmony/pull/593
+    changes:
+    - type: Add
+      message: Impstation markings are now available
+    - type: Tweak
+      message: Vox colors are no longer restricted in range
